@@ -4,4 +4,4 @@ This project applies regression analysis in Python to predict and analyze energy
 
 The model achieved an R² score of approximately 0.73, indicating strong predictive performance. Insights from the analysis highlight key contributors to energy usage, helping industries make data-driven decisions for energy optimization and sustainability.
 
-Google Drive link: https://drive.google.com/drive/folders/1g7crJhNTTb649ccHfP2yaKbY3bMSY3IM
+Project : https://drive.google.com/drive/folders/1g7crJhNTTb649ccHfP2yaKbY3bMSY3IM
